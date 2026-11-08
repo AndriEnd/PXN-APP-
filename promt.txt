@@ -1,0 +1,25 @@
+lakukan reverse enginering dari project PXN V10 berikut  ke aplikasi desktop dengan bahasa pyhton 
+peroject ini merupakan suatu aplikasi androind dengan bahasa java , fungsi aplikasi ini ialah untuk mengkonfigurasi perangkat steering wheel pxn V10, mulai dari force feedback hingga pedal,dan ect..
+dengan koneksi bluetooth untuk mengirimkan data konfigurasi ke perangkat PXN V10 nya
+
+untuk refrensi terdapat pada file PRD_PXN_V10.md,
+di doc tersebut sudah tertera lengkap document teknis , flow kerja dan tujuan aplikasi yang akan di re write ke aplikasi dekstop, aplikasi yang akan di rewrite harus menyertakan semua fitur yang ada pada doc tersebut .
+
+dan terdapat juga file untuk task yang akan di kerjakan
+pada doc DEVELOPMENT_TASK.md, doc itu menjelaskan rinci urutan task dan dokumentasi perngerjaa , mulai dari fitur yang akan di rewite ,
+
+dan juga terdapat code aplikasi yang akan di re write , terdapat pada folder baseCode\app
+di situ terdapat refrensi aplikasi yang sudah exixting , lakukan rewrite dengan menyamakan fungsi , alur kerja dan semua fungsional aplikasi , koneksi bluetooth dan lain sebagainya , namun hanya mengambil untuk PXN V10 saja .
+
+semua fitur yang ada pada base code ini harus tertera dan sama fungionalnya , karna itu merupakan basecode yang existing , tujuan untuk rewire ialah untuk membuat aplikasi nya ke desktop dan dapat di kembangkan lagi fitur tambahannya .
+
+fitur tambahannya :
+
+1.dapat memasukan preset konfigurasi secara universal . dengan format .ini
+seperti pada file shader PXN V10 Ai 4 (Drift).ini
+2.dan tambahkan fitur untuk mengkonfigurasi semua apa yang terdapat pada file 
+ shader PXN V10 Ai 4 (Drift).ini karna file tersebut untuk acuan parameter yang dapat di config
+3.file config tersebut dapat di terapkan dan data configurasi dapat dikirimkan ke perangkan PXN V10 nya agar configurasi dapat sesuai dengan preset pada file config.ini 
+
+untuk tampilan UI lakukan improve , agar terhilat clean dan proporsional
+

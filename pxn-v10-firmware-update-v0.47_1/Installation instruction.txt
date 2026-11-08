@@ -1,0 +1,9 @@
+upgrade operation instruction:
+1, open the firmware program
+2, press and hold the (HOME) button of the steering wheel, do not release it
+3, Plug the steering wheel USB cable into the computer, then release the HOME button
+4, the steering wheel indicator light flashes rapidly, and then click the "update" button on the firmware program 
+5, after the update is complete, re-plug the steering wheel from the computer.
+
+
+

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "China Truck",
+    "img": "",
+    "mode": 1,
+    "platform": 1,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  },
+  {
+    "name": "Assetto Corsa Competizione",
+    "img": "",
+    "mode": 2,
+    "platform": 1,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  },
+  {
+    "name": "Euro Truck 2",
+    "img": "",
+    "mode": 1,
+    "platform": 1,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303845050505050",
+    "recommended": true
+  },
+  {
+    "name": "CarX Drift Racing",
+    "img": "",
+    "mode": 1,
+    "platform": 1,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303843C3C3C5046",
+    "recommended": true
+  },
+  {
+    "name": "F1 2020",
+    "img": "",
+    "mode": 1,
+    "platform": 1,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222301685A50505050",
+    "recommended": true
+  },
+  {
+    "name": "GT Sport",
+    "img": "",
+    "mode": 5,
+    "platform": 3,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  },
+  {
+    "name": "Drive Club",
+    "img": "",
+    "mode": 5,
+    "platform": 3,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  },
+  {
+    "name": "DiRT2",
+    "img": "",
+    "mode": 8,
+    "platform": 5,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  },
+  {
+    "name": "Forza Horizon 4",
+    "img": "",
+    "mode": 8,
+    "platform": 5,
+    "content": "000102030405060708090A0B0C0D11100E0F1415161718191A1B1C1D1E1F2021222303844B50505050",
+    "recommended": true
+  }
+]

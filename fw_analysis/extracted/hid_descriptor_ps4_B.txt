@@ -1,0 +1,30 @@
+UsagePage GenericDesktop
+Usage Joystick
+Collection 0x1
+  ReportID 1
+  Usage X
+  Usage Y
+  Usage Z
+  Usage Rz
+  Input(0x2) size=8 count=4 range=[0..255]
+  Usage Hat
+  Input(0x42) size=4 count=1 range=[0..7]
+  UsagePage Button
+  Input(0x2) size=1 count=14 range=[0..1]
+  UsagePage Vendor
+  Usage 0x20
+  Input(0x2) size=6 count=1 range=[0..1]
+  UsagePage GenericDesktop
+  Usage Rx
+  Usage Ry
+  Input(0x2) size=8 count=2 range=[0..255]
+  UsagePage Vendor
+  Usage 0x21
+  Input(0x2) size=8 count=54 range=[0..255]
+  ReportID 5
+  Usage 0x22
+  Output(0x2) size=8 count=31 range=[0..255]
+  ReportID 3
+  Usage 0x2721
+  Feature(0x2) size=8 count=47 range=[0..255]
+End

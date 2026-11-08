@@ -1,0 +1,279 @@
+UsagePage GenericDesktop
+Usage Joystick
+Collection 0x1
+  ReportID 1
+  Usage Pointer
+  Collection 0x0
+    Usage X
+    Input(0x2) size=16 count=1 range=[-32767..32767]
+    Usage Y
+    Input(0x2) size=16 count=1 range=[-32767..32767]
+  End
+  Usage Z
+  Usage Rx
+  Usage Ry
+  Usage Rz
+  Usage Slider
+  Input(0x2) size=16 count=5 range=[0..65535]
+  Usage Hat
+  Input(0x2) size=8 count=1 range=[1..8]
+  UsagePage Button
+  Input(0x2) size=1 count=24 range=[0..1]
+  UsagePage PID
+  Usage 0x92
+  Collection 0x2
+    ReportID 2
+    Usage 0x9f
+    Usage 0xa0
+    Usage 0xa4
+    Usage 0xa5
+    Usage 0xa6
+    Input(0x2) size=1 count=5 range=[0..1]
+    Input(0x3) size=1 count=3 range=[0..1]
+    Usage 0x94
+    Input(0x2) size=1 count=1 range=[0..1]
+    Usage 0x22
+    Input(0x2) size=7 count=1 range=[1..14]
+  End
+  Usage 0x21
+  Collection 0x2
+    ReportID 1
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x25
+    Collection 0x2
+      Usage 0x26
+      Usage 0x27
+      Usage 0x30
+      Usage 0x31
+      Usage 0x32
+      Usage 0x33
+      Usage 0x34
+      Usage 0x40
+      Usage 0x41
+      Usage 0x42
+      Usage 0x43
+      Usage 0x28
+      Usage 0x28
+      Output(0x0) size=8 count=1 range=[1..12]
+    End
+    Usage 0x50
+    Usage 0x54
+    Usage 0x51
+    Output(0x2) size=16 count=3 range=[0..32767]
+    Usage 0x52
+    Output(0x2) size=8 count=1 range=[0..255]
+    Usage 0x53
+    Output(0x2) size=8 count=1 range=[1..8]
+    Usage 0x55
+    Collection 0x2
+      UsagePage GenericDesktop
+      Usage X
+      Usage Y
+      Output(0x2) size=1 count=2 range=[0..1]
+    End
+    UsagePage PID
+    Usage 0x56
+    Output(0x2) size=1 count=1 range=[0..1]
+    Output(0x3) size=1 count=5 range=[0..1]
+    Usage 0x57
+    Collection 0x2
+      Usage 0xa0001
+      Usage 0xa0002
+      Output(0x2) size=8 count=2 range=[0..255]
+    End
+    UsagePage PID
+    Usage 0x58
+    Collection 0x2
+      Usage 0xa0001
+      Usage 0xa0002
+      Output(0x2) size=16 count=2 range=[0..32765]
+    End
+  End
+  Usage 0x5a
+  Collection 0x2
+    ReportID 2
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x5b
+    Usage 0x5d
+    Output(0x2) size=16 count=2 range=[0..10000]
+    Usage 0x5c
+    Usage 0x5e
+    Output(0x2) size=32 count=2 range=[0..32767]
+  End
+  Usage 0x5f
+  Collection 0x2
+    ReportID 3
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x23
+    Output(0x2) size=4 count=1 range=[0..3]
+    Usage 0x58
+    Collection 0x2
+      Usage 0xa0001
+      Usage 0xa0002
+      Output(0x2) size=2 count=2 range=[0..3]
+    End
+    Usage 0x60
+    Output(0x2) size=16 count=1 range=[-10000..10000]
+    Usage 0x61
+    Usage 0x62
+    Output(0x2) size=16 count=2 range=[-10000..10000]
+    Usage 0x63
+    Usage 0x64
+    Output(0x2) size=16 count=2 range=[0..10000]
+    Usage 0x65
+    Output(0x2) size=16 count=1 range=[0..10000]
+  End
+  Usage 0x6e
+  Collection 0x2
+    ReportID 4
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x70
+    Output(0x2) size=16 count=1 range=[0..10000]
+    Usage 0x6f
+    Output(0x2) size=16 count=1 range=[-10000..10000]
+    Usage 0x71
+    Output(0x2) size=16 count=1 range=[0..35999]
+    Usage 0x72
+    Output(0x2) size=32 count=1 range=[0..32767]
+  End
+  Usage 0x73
+  Collection 0x2
+    ReportID 5
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x70
+    Output(0x2) size=16 count=1 range=[-10000..10000]
+  End
+  Usage 0x74
+  Collection 0x2
+    ReportID 6
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x75
+    Usage 0x76
+    Output(0x2) size=16 count=2 range=[-10000..10000]
+  End
+  Usage 0x68
+  Collection 0x2
+    ReportID 7
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x6c
+    Output(0x2) size=16 count=1 range=[0..10000]
+    Usage 0x69
+    Output(0x102) size=8 count=12 range=[-127..127]
+  End
+  Usage 0x66
+  Collection 0x2
+    ReportID 8
+    UsagePage GenericDesktop
+    Usage X
+    Usage Y
+    Output(0x2) size=8 count=2 range=[-127..127]
+  End
+  UsagePage PID
+  Usage 0x77
+  Collection 0x2
+    ReportID 10
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x78
+    Collection 0x2
+      Usage 0x79
+      Usage 0x7a
+      Usage 0x7b
+      Output(0x0) size=8 count=1 range=[1..3]
+    End
+    Usage 0x7c
+    Output(0x2) size=8 count=1 range=[0..255]
+  End
+  Usage 0x90
+  Collection 0x2
+    ReportID 11
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+  End
+  Usage 0x96
+  Collection 0x2
+    ReportID 12
+    Usage 0x97
+    Usage 0x98
+    Usage 0x99
+    Usage 0x9a
+    Usage 0x9b
+    Usage 0x9c
+    Output(0x0) size=8 count=1 range=[1..6]
+  End
+  Usage 0x7d
+  Collection 0x2
+    ReportID 13
+    Usage 0x7e
+    Output(0x2) size=8 count=1 range=[0..255]
+  End
+  Usage 0x6b
+  Collection 0x2
+    ReportID 14
+    Usage 0x22
+    Output(0x2) size=8 count=1 range=[1..14]
+    Usage 0x6d
+    Output(0x2) size=8 count=1 range=[0..255]
+    Usage 0x51
+    Output(0x2) size=16 count=1 range=[0..32767]
+  End
+  Usage 0xab
+  Collection 0x2
+    ReportID 5
+    Usage 0x25
+    Collection 0x2
+      Usage 0x26
+      Usage 0x27
+      Usage 0x30
+      Usage 0x31
+      Usage 0x32
+      Usage 0x33
+      Usage 0x34
+      Usage 0x40
+      Usage 0x41
+      Usage 0x42
+      Usage 0x43
+      Usage 0x28
+      Feature(0x0) size=8 count=1 range=[1..12]
+    End
+    UsagePage GenericDesktop
+    Usage 0x3b
+    Feature(0x2) size=10 count=1 range=[0..511]
+    Feature(0x1) size=6 count=1 range=[0..511]
+  End
+  UsagePage PID
+  Usage 0x89
+  Collection 0x2
+    ReportID 6
+    Usage 0x22
+    Feature(0x2) size=8 count=1 range=[1..14]
+    Usage 0x8b
+    Collection 0x2
+      Usage 0x8c
+      Usage 0x8d
+      Usage 0x8e
+      Feature(0x0) size=8 count=1 range=[1..3]
+    End
+    Usage 0xac
+    Feature(0x0) size=16 count=1 range=[0..65535]
+  End
+  Usage 0x7f
+  Collection 0x2
+    ReportID 7
+    Usage 0x80
+    Feature(0x2) size=16 count=1 range=[0..65535]
+    Usage 0x83
+    Feature(0x2) size=8 count=1 range=[0..255]
+    Usage 0xa9
+    Usage 0xaa
+    Feature(0x2) size=1 count=2 range=[0..1]
+    Feature(0x3) size=6 count=1 range=[0..1]
+  End
+End
